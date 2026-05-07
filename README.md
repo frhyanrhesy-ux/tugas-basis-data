@@ -1,2 +1,2 @@
-# tugas-basis-data
-Tugas Kuliah membuat sistem informasi kampus sederhana
+# tugas-pemograman-web
+Tugas Kuliah membuat tampilan website pariwisata sederhana sederhana
